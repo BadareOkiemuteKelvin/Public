@@ -1,0 +1,10 @@
+li
+{
+   color:brown;
+}
+
+li:hover{
+  background-color: black;
+  padding: 500;
+  width: 100;
+}

@@ -1,0 +1,76 @@
+.menu-ul
+{
+    display: flex;
+   
+}
+.allproducts
+{
+    background-color: green;
+    color:white;
+    list-style-type: none;
+    text-decoration: none;
+    padding: 10px 40px;
+    border-radius: 10px;
+}
+.allproducts:hover
+{
+   color:white;
+   padding: 10px 50px;
+}
+.bloomzonproducts
+{
+    background-color: blue;
+    color:white;
+    list-style-type: none;
+    text-decoration: none;
+    padding: 10px 40px;
+    border-radius: 10px;
+}
+.bloomzonproducts:hover
+{
+   color:white;
+   padding: 10px 50px;
+}
+.manufacturersproducts
+{
+    background-color: red;
+    color:white;
+    list-style-type: none;
+    text-decoration: none;
+    padding: 10px 40px;
+    border-radius: 10px;
+}
+.manufacturersproducts:hover
+{
+   color:white;
+   padding: 10px 50px;
+}
+
+.sellersproducts
+{
+    background-color: rgba(0, 255, 234, 0.726);
+    color:white;
+    list-style-type: none;
+    text-decoration: none;
+    padding: 10px 40px;
+    border-radius: 10px;
+}
+.sellersproducts:hover
+{
+   color:white;
+   padding: 10px 50px;
+}
+.menu {
+    list-style-type: none;
+    text-decoration: none;
+    color: blue;
+
+  }
+
+  li{
+    margin: 5px;
+    margin-right: 20px;
+    list-style-type: none;
+    text-decoration: none;
+    color: blue;
+  }

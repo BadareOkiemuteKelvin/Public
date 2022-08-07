@@ -1,0 +1,30 @@
+.container
+{
+
+   background-color: whitesmoke;
+}
+label
+{
+   font-size: medium;
+   font-weight: bolder; 
+   margin-right: 50px; 
+}
+.formInput{
+    border-radius: 5px;
+    padding: 5px;
+    padding-left: 10px;
+    width: 60%;
+    margin-top: 20px;
+}
+.form 
+{
+    justify-content: center;
+    align-content: center;
+    background-color: whitesmoke;
+    padding-left: 150px;
+    
+}
+.submitBotton
+{
+     margin-left: 500px;
+}
